@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "question": "Theo FIP, trọng tâm sứ mệnh của Dược cộng đồng là gì? [cite: 1]",
+    "options": [
+      "Giảm chi phí thuốc cho từng bệnh nhân trong ngắn hạn [cite: 2]",
+      "Nâng cao sức khỏe cộng đồng và tối ưu hóa hiệu quả điều trị lâu dài [cite: 3]",
+      "Mở rộng mạng lưới nhà thuốc để tăng độ phủ địa lý [cite: 4]",
+      "Tập trung đào tạo thêm dược sĩ mà không gắn với nhu cầu thực tế [cite: 5]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Một trong những xu hướng chăm sóc dược hiện đại là: [cite: 6]",
+    "options": [
+      "Tập trung vào lợi nhuận [cite: 7]",
+      "Khuyến khích bệnh nhân tự mua thuốc [cite: 8]",
+      "Hỗ trợ bệnh nhân tuân thủ phác đồ điều trị [cite: 9]",
+      "Giảm số lượng thuốc bán ra [cite: 10]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "Trách nhiệm của dược sĩ cộng đồng bao gồm: [cite: 11]",
+    "options": [
+      "Chỉ bán thuốc theo đơn [cite: 12]",
+      "Cung ứng thuốc chất lượng và tư vấn chuyên môn [cite: 13]",
+      "Tập trung vào quảng cáo sản phẩm [cite: 14]",
+      "Không cần theo dõi bệnh nhân [cite: 15]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Theo WHO, khi xử trí bệnh thông thường, dược sĩ cần làm gì nếu tình trạng vượt quá khả năng xử lý? [cite: 16, 17]",
+    "options": [
+      "Cho thêm thuốc mạnh hơn [cite: 18]",
+      "Chuyển tuyến đến cơ sở y tế phù hợp [cite: 19]",
+      "Khuyên bệnh nhân tự theo dõi [cite: 20]",
+      "Không cần can thiệp [cite: 21]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Khi bán thuốc theo đơn, dược sĩ cần kiểm tra yếu tố nào trước tiên? [cite: 22]",
+    "options": [
+      "Tính hợp pháp, an toàn và phù hợp của đơn thuốc với bệnh nhân [cite: 23]",
+      "Giá thuốc trên thị trường để đảm bảo cạnh tranh [cite: 24]",
+      "Thời điểm bệnh nhân đến mua thuốc (sáng, chiều) [cite: 25]",
+      "Số lượng thuốc còn tồn trong kho [cite: 26]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Một trong những vai trò quan trọng của dược sĩ cộng đồng là: [cite: 27]",
+    "options": [
+      "Người kết nối hệ thống y tế [cite: 28]",
+      "Người quản lý tài chính bệnh viện [cite: 29]",
+      "Người đào tạo bác sĩ [cite: 30]",
+      "Người nghiên cứu thuốc mới [cite: 31]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Trong giai đoạn 2012-2017, số lượng cơ sở bán lẻ thuốc tại Việt Nam tăng khoảng bao nhiêu phần trăm? [cite: 32]",
+    "options": [
+      "50% [cite: 33]",
+      "100% [cite: 34]",
+      "150% [cite: 35]",
+      "200% [cite: 36]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "question": "Khi số lượng nhà thuốc và nhân lực tăng nhanh, thách thức lớn nhất là gì? [cite: 37]",
+    "options": [
+      "Nguy cơ thiếu nguồn cung thuốc do nhu cầu tăng [cite: 38]",
+      "Khó khăn trong quản lý chuyên môn và duy trì đạo đức hành nghề [cite: 39]",
+      "Giảm nhu cầu chăm sóc sức khỏe của cộng đồng [cite: 40]",
+      "Tăng chi phí đào tạo nhân lực mới [cite: 41]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Tiềm năng ngành dược phẩm phát minh tại Việt Nam có thể đạt giá trị gia tăng trực tiếp khoảng bao nhiêu? [cite: 42, 43]",
+    "options": [
+      "0,2 tỷ USD [cite: 44]",
+      "7,4 tỷ USD [cite: 45]",
+      "13,1 tỷ USD [cite: 46]",
+      "48 tỷ USD [cite: 47]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Để đạt được tiềm năng phát triển ngành dược phẩm phát minh, Việt Nam cần điều kiện tiên quyết nào? [cite: 48]",
+    "options": [
+      "Tăng nhanh số lượng nhà thuốc bán lẻ [cite: 49]",
+      "Thu hút đầu tư vào R&D và đào tạo nhân lực chất lượng cao [cite: 50]",
+      "Giảm giá thuốc nhập khẩu để tăng khả năng tiếp cận [cite: 51]",
+      "Tập trung mở rộng hoạt động bán lẻ thuốc [cite: 52]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Một trong những hoạt động chuyên môn của dược sĩ cộng đồng theo WHO là gì? [cite: 53]",
+    "options": [
+      "Quản lý tài chính bệnh viện và ngân sách thuốc [cite: 54]",
+      "Xử trí các bệnh và triệu chứng thông thường trong phạm vi cho phép [cite: 55]",
+      "Đào tạo bác sĩ chuyên khoa tại tuyến trung ương [cite: 56]",
+      "Nghiên cứu phát minh thuốc mới trong phòng thí nghiệm [cite: 57]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Khi chăm sóc người bệnh, dược sĩ cần đảm bảo điều gì? [cite: 58]",
+    "options": [
+      "Người bệnh hiểu rõ chế độ liều và đường dùng thuốc [cite: 59]",
+      "Người bệnh tự chọn thuốc theo ý muốn [cite: 60]",
+      "Người bệnh không cần theo dõi sau khi dùng thuốc [cite: 61]",
+      "Người bệnh chỉ dùng thuốc khi cảm thấy cần thiết [cite: 62]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "Một trong những chương trình y tế công cộng mà dược sĩ cộng đồng thường tham gia là: [cite: 63]",
+    "options": [
+      "Ung thư phổi và các bệnh mạn tính [cite: 64]",
+      "Lao, HIV/AIDS, sốt rét [cite: 65]",
+      "Viêm gan B ở cộng đồng [cite: 66]",
+      "Bệnh tim mạch và huyết áp cao [cite: 67]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Yếu tố nào thuộc về “văn hóa” có ảnh hưởng đến việc chăm sóc sức khỏe cộng đồng? [cite: 68]",
+    "options": [
+      "Chi phí khám chữa bệnh tại cơ sở y tế [cite: 69]",
+      "Thói quen và quan niệm cũ của người dân [cite: 70]",
+      "Thời gian chờ đợi khi đi khám bệnh [cite: 71]",
+      "Nguy cơ lây nhiễm trong bệnh viện [cite: 72]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Dược sĩ cộng đồng được coi là “chuyên gia đáng tin cậy” vì: [cite: 73]",
+    "options": [
+      "Luôn có mặt tại địa phương, dễ tiếp cận với người dân [cite: 74]",
+      "Có quyền kê đơn thuốc như bác sĩ [cite: 75]",
+      "Là người quản lý trực tiếp bệnh viện [cite: 76]",
+      "Là người nghiên cứu thuốc phát minh trong phòng thí nghiệm [cite: 77]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "Số lượng cơ sở kinh doanh thuốc tại Việt Nam năm 2017 là: [cite: 78]",
+    "options": [
+      "39.124 [cite: 79]",
+      "Khoảng 50.000 [cite: 80]",
+      "61.867 [cite: 81]",
+      "Trên 70.000 [cite: 82]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "Tỷ lệ cơ sở đào tạo ngoài công lập trong ngành Dược chiếm khoảng: [cite: 83]",
+    "options": [
+      "25% tổng số cơ sở [cite: 84]",
+      "50% tổng số cơ sở [cite: 85]",
+      "75% tổng số cơ sở [cite: 86]",
+      "100% toàn bộ cơ sở [cite: 87]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "Một thách thức khi số lượng nhà thuốc tăng nhanh là: [cite: 88]",
+    "options": [
+      "Giảm nhu cầu sử dụng thuốc trong cộng đồng [cite: 89]",
+      "Nguy cơ thương mại hóa y tế, ảnh hưởng đạo đức nghề nghiệp [cite: 90]",
+      "Thiếu nguồn thuốc nhập khẩu từ nước ngoài [cite: 91]",
+      "Giảm số lượng bệnh nhân đến khám chữa bệnh [cite: 92]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Vai trò nào của dược sĩ giúp tránh tương tác thuốc nguy hiểm? [cite: 93]",
+    "options": [
+      "Người bán lẻ thuốc tại quầy [cite: 94]",
+      "Chuyên gia về dược động học và tư vấn thuốc [cite: 95]",
+      "Người quản lý tài chính bệnh viện [cite: 96]",
+      "Người đào tạo sinh viên y khoa [cite: 97]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Một lợi thế của dược sĩ cộng đồng trong chăm sóc cá nhân hóa là: [cite: 98]",
+    "options": [
+      "Hiểu rõ bệnh sử và hoàn cảnh gia đình bệnh nhân [cite: 99]",
+      "Có quyền kê đơn thuốc như bác sĩ [cite: 100]",
+      "Quản lý toàn bộ hoạt động bệnh viện [cite: 101]",
+      "Đào tạo bác sĩ chuyên khoa [cite: 102]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "question": "Giá trị gia tăng trực tiếp hiện trạng ngành dược phẩm phát minh tại Việt Nam là: [cite: 103]",
+    "options": [
+      "0,2 tỷ USD (quy mô rất nhỏ) [cite: 104]",
+      "7,4 tỷ USD (mức tiềm năng, chưa đạt) [cite: 105]",
+      "13,1 tỷ USD (cao hơn thực tế hiện tại) [cite: 106]",
+      "48 tỷ USD (mức toàn cầu, không phải Việt Nam) [cite: 107]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Tiềm năng ngành dược phẩm phát minh tại Việt Nam có thể tạo ra bao nhiêu việc làm? [cite: 108]",
+    "options": [
+      "7.000 (quy mô nhỏ, chưa đủ tiềm năng) [cite: 109]",
+      "20.000 (chỉ bằng một phần tiềm năng) [cite: 110]",
+      "48.000 (ước tính thực tế theo nghiên cứu) [cite: 111]",
+      "100.000 (quá cao so với khả năng hiện tại) [cite: 112]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "Tổng mức đầu tư toàn cầu vào R&D dược phẩm sinh học từ năm 2006 đến 2020 là: [cite: 113]",
+    "options": [
+      "500 tỷ USD (thấp hơn thực tế) [cite: 114]",
+      "800 tỷ USD (chưa đủ) [cite: 115]",
+      "1.100 tỷ USD (con số chính xác) [cite: 116]",
+      "2.000 tỷ USD (vượt xa thực tế) [cite: 117]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Giá trị gia tăng tiềm năng của Việt Nam (7,4 tỷ USD) thấp hơn quốc gia nào trong so sánh quốc tế? [cite: 118]",
+    "options": [
+      "Singapore (quy mô nhỏ hơn Việt Nam) [cite: 119]",
+      "Hàn Quốc (cao hơn Việt Nam) [cite: 120]",
+      "Ireland (cao hơn Việt Nam) [cite: 121]",
+      "Nhật Bản (rất cao, vượt xa Việt Nam) [cite: 122]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Điều kiện tiên quyết để Việt Nam đạt tiềm năng phát triển ngành dược phẩm phát minh là: [cite: 123]",
+    "options": [
+      "Tăng số lượng nhà thuốc bán lẻ [cite: 124]",
+      "Thu hút đầu tư R&D và đào tạo nhân lực chất lượng cao [cite: 125]",
+      "Giảm giá thuốc nhập khẩu [cite: 126]",
+      "Tập trung vào hoạt động bán lẻ thuốc [cite: 127]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Nguyên tắc số 1 của FIP trong hành nghề dược cộng đồng là gì? [cite: 128]",
+    "options": [
+      "Tôn trọng đồng nghiệp [cite: 129]",
+      "Lấy người bệnh làm trung tâm [cite: 130]",
+      "Trung thực và đáng tin cậy [cite: 131]",
+      "Hành nghề có trách nhiệm [cite: 132]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Nguyên tắc số 2 của FIP yêu cầu dược sĩ cộng đồng ra quyết định dựa trên yếu tố nào? [cite: 133]",
+    "options": [
+      "Lợi nhuận của nhà thuốc [cite: 134]",
+      "Quyền lợi của người bệnh và cộng đồng [cite: 135]",
+      "Chỉ định của công ty dược phẩm [cite: 136]",
+      "Sở thích cá nhân của nhân viên [cite: 137]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "Nguyên tắc nào sau đây yêu cầu dược sĩ phải thừa nhận và tôn trọng sự khác biệt về văn hóa, niềm tin của người bệnh? [cite: 138]",
+    "options": [
+      "Nguyên tắc 1 [cite: 139]",
+      "Nguyên tắc 2 [cite: 140]",
+      "Nguyên tắc 3 [cite: 141]",
+      "Nguyên tắc 4 [cite: 142]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Yêu cầu nào sau đây liên quan đến việc duy trì và nâng cao chất lượng hành nghề của dược sĩ? [cite: 143]",
+    "options": [
+      "Dược sĩ phải thường xuyên cập nhật chuyên môn [cite: 144]",
+      "Dược sĩ chỉ cần học trong trường đại học [cite: 145]",
+      "Dược sĩ không cần đào tạo liên tục [cite: 146]",
+      "Dược sĩ chỉ tập trung vào bán thuốc [cite: 147]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "Nguyên tắc nào khẳng định phẩm chất đạo đức quan trọng nhất (nền tảng) của dược sĩ cộng đồng? [cite: 148, 149]",
+    "options": [
+      "Trung thực và đáng tin cậy [cite: 150]",
+      "Lấy người bệnh làm trung tâm [cite: 151]",
+      "Tôn trọng đồng nghiệp [cite: 152]",
+      "Hành nghề có trách nhiệm [cite: 153]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "Nguyên tắc nào yêu cầu dược sĩ phải “tôn trọng người bệnh và đồng nghiệp”? [cite: 1]",
+    "options": [
+      "Nguyên tắc 2 [cite: 2]",
+      "Nguyên tắc 3 [cite: 3]",
+      "Nguyên tắc 5 [cite: 4]",
+      "Nguyên tắc 7 [cite: 5]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Nguyên tắc “Trung thực và đáng tin cậy” phản ánh phẩm chất nào của dược sĩ cộng đồng? [cite: 6]",
+    "options": [
+      "Đạo đức nghề nghiệp [cite: 7]",
+      "Kỹ năng giao tiếp [cite: 8]",
+      "Khả năng nghiên cứu [cite: 9]",
+      "Năng lực quản lý [cite: 10]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "Nguyên tắc nào khuyến khích người bệnh và cộng đồng tham gia vào quá trình điều trị? [cite: 11]",
+    "options": [
+      "Nguyên tắc 1 [cite: 12]",
+      "Nguyên tắc 4 [cite: 13]",
+      "Nguyên tắc 6 [cite: 14]",
+      "Nguyên tắc 7 [cite: 15]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "Nguyên tắc “Hành nghề một cách có trách nhiệm” yêu cầu dược sĩ phải: [cite: 16]",
+    "options": [
+      "Chỉ bán thuốc theo đơn [cite: 17]",
+      "Đảm bảo mọi hành động đều hướng tới lợi ích cộng đồng [cite: 18]",
+      "Tập trung vào lợi nhuận kinh doanh [cite: 19]",
+      "Giảm số lượng thuốc bán ra [cite: 20]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Nguyên tắc “Không ngừng nâng cao kiến thức, năng lực bản thân” giúp dược sĩ: [cite: 21]",
+    "options": [
+      "Đáp ứng nhu cầu chăm sóc sức khỏe ngày càng cao [cite: 22]",
+      "Giảm chi phí đào tạo [cite: 23]",
+      "Tập trung vào bán lẻ thuốc [cite: 24]",
+      "Tránh phải tham gia các chương trình y tế công cộng [cite: 25]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Theo FIP, cốt lõi của chất lượng dịch vụ nhà thuốc là gì? [cite: 26]",
+    "options": [
+      "Giá thuốc rẻ nhất [cite: 27]",
+      "Chất lượng chăm sóc, đáp ứng nhu cầu người bệnh [cite: 28]",
+      "Số lượng thuốc bán ra nhiều [cite: 29]",
+      "Quảng bá thương hiệu nhà thuốc [cite: 30]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Chất lượng dịch vụ nhà thuốc được thể hiện qua yếu tố nào? [cite: 31]",
+    "options": [
+      "Sự chăm sóc tối ưu cho người bệnh [cite: 32]",
+      "Tăng doanh thu bán hàng [cite: 33]",
+      "Giảm chi phí nhập thuốc [cite: 34]",
+      "Tăng số lượng nhân viên bán hàng [cite: 35]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "Yêu cầu về chất lượng chăm sóc tại nhà thuốc được chia thành mấy cấp độ? [cite: 36]",
+    "options": [
+      "2 cấp độ [cite: 37]",
+      "3 cấp độ [cite: 38]",
+      "4 cấp độ [cite: 39]",
+      "5 cấp độ [cite: 40]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "question": "Mục tiêu chính của chất lượng chăm sóc tại nhà thuốc là: [cite: 41]",
+    "options": [
+      "Đáp ứng nhu cầu của người bệnh [cite: 42]",
+      "Giảm chi phí vận hành [cite: 43]",
+      "Tăng số lượng nhà thuốc [cite: 44]",
+      "Quản lý tài chính hiệu quả [cite: 45]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "question": "Khi nói đến chất lượng dịch vụ nhà thuốc, yếu tố nào KHÔNG phải là trọng tâm? [cite: 46]",
+    "options": [
+      "Chất lượng chăm sóc người bệnh [cite: 47]",
+      "Sự đáp ứng nhu cầu bệnh nhân [cite: 48]",
+      "Tối ưu hóa hiệu quả điều trị [cite: 49]",
+      "Quảng cáo sản phẩm thuốc [cite: 50]"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 41,
+    "question": "Khi tư vấn cho bệnh nhân, thông tin quan trọng cần được cung cấp vào: [cite: 51]",
+    "options": [
+      "Bất kỳ lúc nào [cite: 52]",
+      "Thời điểm phù hợp trong buổi tư vấn [cite: 53]",
+      "Sau khi bệnh nhân rời đi [cite: 54]",
+      "Khi bệnh nhân không chú ý [cite: 55]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Khi viết nhãn thuốc, dược sĩ cần lưu ý điều gì để đảm bảo an toàn? [cite: 56]",
+    "options": [
+      "Viết mờ nhạt [cite: 57]",
+      "Không cần ghi thời gian [cite: 58]",
+      "Viết rõ ràng, dễ đọc [cite: 59]",
+      "Không cần ký tên [cite: 60]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "question": "Một rào cản thường gặp trong giao tiếp tại nhà thuốc liên quan đến yếu tố môi trường là: [cite: 61]",
+    "options": [
+      "Không gian riêng tư [cite: 62]",
+      "Thời tiết [cite: 63]",
+      "Giá thuốc [cite: 64]",
+      "Số lượng thuốc [cite: 65]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "Một dấu hiệu nhận biết người cao tuổi có thính lực kém trong giao tiếp là: [cite: 66]",
+    "options": [
+      "Trả lời chính xác mọi câu hỏi [cite: 67]",
+      "Tập trung vào môi người nói [cite: 68]",
+      "Nghe tốt trong môi trường ồn ào [cite: 69]",
+      "Không cần hỗ trợ [cite: 70]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Khi giao tiếp với bệnh nhân trầm cảm, dược sĩ nên có thái độ như thế nào? [cite: 71]",
+    "options": [
+      "Chỉ trích bệnh nhân [cite: 72]",
+      "Lắng nghe và đồng cảm [cite: 73]",
+      "Bỏ qua cảm xúc của bệnh nhân [cite: 74]",
+      "Nói nhanh để tiết kiệm thời gian [cite: 75]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Thái độ sai lầm của người bán lẻ thuốc (dược sĩ) gây rào cản giao tiếp là: [cite: 76]",
+    "options": [
+      "Cho rằng bệnh nhân đã hiểu hết thông tin [cite: 77]",
+      "Kiểm tra lại mức độ hiểu của bệnh nhân [cite: 78]",
+      "Giải thích rõ ràng cách dùng thuốc [cite: 79]",
+      "Kết hợp lời nói và văn bản [cite: 80]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "question": "Trong giao tiếp với bác sĩ kê đơn, dược sĩ cần lưu ý điều gì hàng đầu? [cite: 81]",
+    "options": [
+      "Luôn tập trung vào người bệnh [cite: 82]",
+      "Chỉ nói về giá thuốc [cite: 83]",
+      "Tránh đưa ra giải pháp [cite: 84]",
+      "Không cần phản hồi [cite: 85]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "Biểu hiện của giao tiếp quyết đoán (assertive) của dược sĩ là: [cite: 86]",
+    "options": [
+      "Lời nói vòng vo [cite: 87]",
+      "Giọng nói yếu [cite: 88]",
+      "Ngôn ngữ cơ thể thoải mái [cite: 89]",
+      "Thái độ hống hách [cite: 90]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 49,
+    "question": "Một yếu tố quan trọng giúp tạo động lực cho nhân viên nhà thuốc là: [cite: 91]",
+    "options": [
+      "Khen thưởng công bằng [cite: 92]",
+      "Không cần phản hồi [cite: 93]",
+      "Bỏ qua ý kiến nhân viên [cite: 94]",
+      "Thiếu minh bạch [cite: 95]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Quy trình giao tiếp cơ bản tại nhà thuốc Q-A-T bao gồm các bước: [cite: 96]",
+    "options": [
+      "Hỏi – Tư vấn – Điều trị [cite: 97]",
+      "Hỏi – Bán – Kết thúc [cite: 98]",
+      "Tư vấn – Thanh toán – Điều trị [cite: 99]",
+      "Chào hỏi – Bán thuốc – Kết thúc [cite: 100]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "question": "Trong quy trình G-A-T-H-E-R, bước “Help” nghĩa là: [cite: 101]",
+    "options": [
+      "Giúp bệnh nhân chọn thuốc phù hợp [cite: 102]",
+      "Giúp bệnh nhân thanh toán [cite: 103]",
+      "Giúp bệnh nhân tìm bác sĩ [cite: 104]",
+      "Giúp bệnh nhân nhớ thông tin [cite: 105]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "question": "Khi giao tiếp với bệnh nhân căng thẳng, dược sĩ nên: [cite: 106]",
+    "options": [
+      "Nói to [cite: 107]",
+      "Lắng nghe kiên nhẫn [cite: 108]",
+      "Hạn chế giao tiếp [cite: 109]",
+      "Chỉ đưa thuốc mà không giải thích [cite: 110]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "question": "Một rào cản từ phía bệnh nhân trong giao tiếp là: [cite: 111]",
+    "options": [
+      "Tâm lý e ngại chia sẻ [cite: 112]",
+      "Giá thuốc cao [cite: 113]",
+      "Nhà thuốc đông khách [cite: 114]",
+      "Thiếu nhân viên tư vấn [cite: 115]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "Người cao tuổi có thính lực kém thường yêu cầu: [cite: 116]",
+    "options": [
+      "Nói nhanh [cite: 117]",
+      "Nói chậm hoặc nhắc lại [cite: 118]",
+      "Không cần giải thích [cite: 119]",
+      "Nói nhỏ [cite: 120]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Khi giao tiếp với nhân viên nhà thuốc, quản lý cần: [cite: 121]",
+    "options": [
+      "Khuyến khích phản hồi [cite: 122]",
+      "Bỏ qua ý kiến nhân viên [cite: 123]",
+      "Chỉ đưa mệnh lệnh [cite: 124]",
+      "Không cần giải thích [cite: 125]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "question": "Một biểu hiện của giao tiếp thụ động là: [cite: 126]",
+    "options": [
+      "Lời nói xin lỗi, mơ hồ [cite: 127]",
+      "Giọng nói mạnh mẽ [cite: 128]",
+      "Ngôn ngữ cơ thể thoải mái [cite: 129]",
+      "Thái độ thẳng thắn [cite: 130]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "question": "Khi viết nhãn thuốc, cần ghi: [cite: 131]",
+    "options": [
+      "Thời gian sử dụng [cite: 132]",
+      "Giá thuốc [cite: 133]",
+      "Tên nhà thuốc [cite: 134]",
+      "Số điện thoại [cite: 135]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "Một dấu hiệu của trầm cảm là: [cite: 136]",
+    "options": [
+      "Luôn cảm thấy mệt mỏi [cite: 137]",
+      "Luôn vui vẻ [cite: 138]",
+      "Ăn uống nhiều hơn [cite: 139]",
+      "Ngủ ngon [cite: 140]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "Trong giao tiếp với bác sĩ kê đơn, dược sĩ cần: [cite: 141]",
+    "options": [
+      "Đề xuất giải pháp [cite: 142]",
+      "Chỉ nghe mà không nói [cite: 143]",
+      "Không cần phản hồi [cite: 144]",
+      "Tập trung vào giá thuốc [cite: 145]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "question": "Khi giao tiếp với bệnh nhân rối loạn tâm thần, dược sĩ nên: [cite: 146]",
+    "options": [
+      "Thái độ thân thiện, lịch sự [cite: 147]",
+      "Chỉ trích bệnh nhân [cite: 148]",
+      "Nói nhanh, khó hiểu [cite: 149]",
+      "Tránh giao tiếp [cite: 150]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "Một yếu tố môi trường gây cản trở giao tiếp tại nhà thuốc là: [cite: 1]",
+    "options": [
+      "Tiếng ồn [cite: 2]",
+      "Giá thuốc [cite: 3]",
+      "Số lượng thuốc [cite: 4]",
+      "Thời tiết [cite: 5]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "question": "Trong giao tiếp, giọng nói công kích thường: [cite: 6]",
+    "options": [
+      "Yếu, do dự [cite: 7]",
+      "To tiếng, đòi hỏi [cite: 8]",
+      "Ấm áp, mạnh mẽ [cite: 9]",
+      "Nhẹ nhàng [cite: 10]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "Một nguyên tắc khi giao tiếp với nhân viên nhà thuốc là: [cite: 11]",
+    "options": [
+      "Thông tin rõ ràng, kịp thời [cite: 12]",
+      "Không cần giải thích [cite: 13]",
+      "Bỏ qua phản hồi [cite: 14]",
+      "Chỉ đưa mệnh lệnh [cite: 15]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "question": "Khi bệnh nhân không có đơn thuốc, bước đầu tiên là: [cite: 16]",
+    "options": [
+      "Khai thác thông tin [cite: 17]",
+      "Chuẩn bị thuốc ngay [cite: 18]",
+      "Kết thúc giao dịch [cite: 19]",
+      "Không cần hỏi [cite: 20]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "question": "Một yếu tố tạo sự gắn kết nhân viên là: [cite: 21]",
+    "options": [
+      "Đối xử công bằng, tôn trọng [cite: 22]",
+      "Bỏ qua ý kiến [cite: 23]",
+      "Thiếu minh bạch [cite: 24]",
+      "Không cần khen thưởng [cite: 25]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Trong giao tiếp với bác sĩ kê đơn, nếu trao đổi trực tiếp, dược sĩ cần: [cite: 26]",
+    "options": [
+      "Yêu cầu phản hồi giải pháp [cite: 27]",
+      "Chỉ nghe [cite: 28]",
+      "Không cần phản hồi [cite: 29]",
+      "Tập trung vào giá thuốc [cite: 30]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "question": "Một biểu hiện của giao tiếp công kích là: [cite: 31]",
+    "options": [
+      "Hống hách, buộc tội [cite: 32]",
+      "Cởi mở, chân thành [cite: 33]",
+      "Hối lỗi, mơ hồ [cite: 34]",
+      "Giọng nói ấm áp [cite: 35]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "Khi bệnh nhân trầm cảm cảm thấy cuộc sống không có ý nghĩa, dược sĩ nên: [cite: 36]",
+    "options": [
+      "Đồng cảm và khuyến khích tìm hỗ trợ chuyên môn [cite: 37]",
+      "Bỏ qua cảm xúc [cite: 38]",
+      "Chỉ đưa thuốc [cite: 39]",
+      "Nói nhanh để tiết kiệm thời gian [cite: 40]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "question": "Một yếu tố cần cải thiện trong mối quan hệ dược sĩ cộng đồng – bệnh viện tại Việt Nam là: [cite: 41]",
+    "options": [
+      "Hợp tác chặt chẽ [cite: 42]",
+      "Giá thuốc [cite: 43]",
+      "Số lượng thuốc [cite: 44]",
+      "Không cần phối hợp [cite: 45]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "Trong quy trình G-A-T-H-E-R, bước \"Return\" nghĩa là: [cite: 46]",
+    "options": [
+      "Lên kế hoạch cho lần tư vấn tiếp theo [cite: 47]",
+      "Trả lại thuốc [cite: 48]",
+      "Hoàn tất thanh toán [cite: 49]",
+      "Không cần gặp lại [cite: 50]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "question": "Khi giao tiếp với bệnh nhân rối loạn tâm thần, cần tránh: [cite: 51]",
+    "options": [
+      "Chỉ trích, phán xét [cite: 52]",
+      "Thái độ thân thiện [cite: 53]",
+      "Giao tiếp ngắn gọn [cite: 54]",
+      "Đồng cảm [cite: 55]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "question": "Một yếu tố quan trọng trong khen thưởng nhân viên là: [cite: 56]",
+    "options": [
+      "Minh bạch, công bằng [cite: 57]",
+      "Thiếu rõ ràng [cite: 58]",
+      "Bỏ qua hiệu quả công việc [cite: 59]",
+      "Không cần khen thưởng [cite: 60]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "question": "Trong giao tiếp quyết đoán, giọng nói thường: [cite: 61]",
+    "options": [
+      "Mạnh mẽ, ấm áp [cite: 62]",
+      "Yếu, do dự [cite: 63]",
+      "To tiếng, đòi hỏi [cite: 64]",
+      "Hống hách [cite: 65]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "Một dấu hiệu của người cao tuổi có thính lực kém là: [cite: 66]",
+    "options": [
+      "Đưa ra câu trả lời không phù hợp [cite: 67]",
+      "Nghe tốt trong môi trường ồn ào [cite: 68]",
+      "Không cần hỗ trợ [cite: 69]",
+      "Luôn trả lời chính xác [cite: 70]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "question": "Khi giao tiếp với nhân viên nhà thuốc, quản lý cần: [cite: 71]",
+    "options": [
+      "Chủ động thảo luận [cite: 72]",
+      "Bỏ qua ý kiến [cite: 73]",
+      "Không cần phản hồi [cite: 74]",
+      "Chỉ đưa mệnh lệnh [cite: 75]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "Một yếu tố môi trường gây cản trở giao tiếp là: [cite: 76]",
+    "options": [
+      "Rào cản thể chất [cite: 77]",
+      "Giá thuốc [cite: 78]",
+      "Số lượng thuốc [cite: 79]",
+      "Thời tiết [cite: 80]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "question": "Khi giao tiếp với nhân viên nhà thuốc, một cách xử lý phản hồi hiệu quả là: [cite: 81]",
+    "options": [
+      "Bỏ qua phản hồi tiêu cực [cite: 82]",
+      "Xử lý với tinh thần xây dựng [cite: 83]",
+      "Chỉ chấp nhận phản hồi tích cực [cite: 84]",
+      "Không cần phản hồi [cite: 85]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Trong giao tiếp với bệnh nhân rối loạn tâm thần, dược sĩ cần tập trung vào: [cite: 86]",
+    "options": [
+      "Giá thuốc [cite: 87]",
+      "Triệu chứng và vấn đề ưu tiên [cite: 88]",
+      "Thái độ bề trên [cite: 89]",
+      "Thời gian giao dịch [cite: 90]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "question": "Một yếu tố quan trọng để tạo động lực cho nhân viên là: [cite: 91]",
+    "options": [
+      "Cải thiện môi trường làm việc [cite: 92]",
+      "Không cần mô tả công việc [cite: 93]",
+      "Thiếu minh bạch trong khen thưởng [cite: 94]",
+      "Bỏ qua tiêu chí tuyển chọn [cite: 95]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "question": "Trong quy trình bán thuốc, bước cuối cùng là: [cite: 96]",
+    "options": [
+      "Chuẩn bị thuốc [cite: 97]",
+      "Hướng dẫn sử dụng [cite: 98]",
+      "Hoàn tất giao dịch [cite: 99]",
+      "Phân loại khách hàng [cite: 100]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "question": "Khi giao tiếp với bác sĩ kê đơn, việc cung cấp thông tương cần: [cite: 101]",
+    "options": [
+      "Rõ ràng, ngắn gọn và chính xác [cite: 102]",
+      "Rõ ràng, dài dòng, nhiều chi tiết liên quan [cite: 103]",
+      "Tập trung chủ yếu vào giá thuốc, bỏ qua thông tin chuyên môn [cite: 104]",
+      "Nói nhanh, không cần giải thích cụ thể [cite: 105]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "Theo WHO, sử dụng thuốc hợp lý là gì? [cite: 106]",
+    "options": [
+      "Dùng thuốc theo sở thích [cite: 107]",
+      "Dùng thuốc theo quảng cáo [cite: 108]",
+      "Dùng thuốc phù hợp với nhu cầu lâm sàng, liều, thời gian, chi phí hợp lý [cite: 109]",
+      "Dùng thuốc càng nhiều càng tốt [cite: 110]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 83,
+    "question": "Đau đầu kiểu căng thẳng thường xuất hiện ở vị trí nào? [cite: 111]",
+    "options": [
+      "Một bên đầu [cite: 112]",
+      "Phía trước trán [cite: 113]",
+      "Hai bên, phía sau đầu [cite: 114]",
+      "Vùng thái dương [cite: 115]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 84,
+    "question": "Đau nửa đầu (migraine) thường gặp ở đối tượng nào nhiều hơn? [cite: 116]",
+    "options": [
+      "Nam giới [cite: 117]",
+      "Nữ giới [cite: 118]",
+      "Trẻ em [cite: 119]",
+      "Người cao tuổi [cite: 120]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Viêm xoang thường gây đau ở vị trí: [cite: 121]",
+    "options": [
+      "Sau gáy [cite: 122]",
+      "Trán, phía trước [cite: 123]",
+      "Hai bên thái dương [cite: 124]",
+      "Vùng chẩm [cite: 125]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "Trong hệ thống WHHAM, chữ W đầu tiên viết tắt cho: [cite: 126]",
+    "options": [
+      "What – Triệu chứng là gì [cite: 127]",
+      "When – Khi nào xuất hiện [cite: 128]",
+      "Where - Vị trí đau [cite: 129]",
+      "Why - Nguyên nhân [cite: 130]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "question": "Trong hệ thống WHHAM, chữ H đầu tiên có nghĩa là: [cite: 131]",
+    "options": [
+      "History – Tiền sử bệnh [cite: 132]",
+      "Habit - Thói quen [cite: 133]",
+      "Health - Tình trạng sức khỏe [cite: 134]",
+      "Hospital – Bệnh viện [cite: 135]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "Trong hệ thống SIT DOWN SIR, chữ S đầu tiên là: [cite: 136]",
+    "options": [
+      "Site - Vị trí triệu chứng [cite: 137]",
+      "Symptom - Triệu chứng [cite: 138]",
+      "Severity - Mức độ [cite: 139]",
+      "System – Hệ cơ quan [cite: 140]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "question": "Khi bệnh nhân có đờm màu vàng hoặc xanh, dược sĩ nên: [cite: 141]",
+    "options": [
+      "Cho thuốc ho không kê đơn [cite: 142]",
+      "Khuyên đi khám bác sĩ [cite: 143]",
+      "Cho thuốc bổ sung vitamin [cite: 144]",
+      "Cho thuốc giảm đau [cite: 145]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Trong tư vấn không dùng thuốc, dược sĩ cần:",
+    "options": [
+      "Đưa thuốc ngay",
+      "Động viên tinh thần, giải thích rõ",
+      "Bỏ qua triệu chứng",
+      "Khuyên bệnh nhân tự tìm hiểu"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Khi bệnh nhân yêu cầu mua kháng sinh nhỏ mắt, dược sĩ cần:",
+    "options": [
+      "Bán ngay theo yêu cầu",
+      "Khai thác triệu chứng và tiền sử",
+      "Cho thuốc bổ sung",
+      "Khuyên uống nhiều nước"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Một trong những yếu tố ảnh hưởng đến sử dụng thuốc hợp lý là:",
+    "options": [
+      "Người bệnh",
+      "Thời tiết",
+      "Quảng cáo",
+      "Thói quen ăn uống"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "Khi bệnh nhân có sốt kéo dài hoặc tái diễn, dược sĩ nên:",
+    "options": [
+      "Cho thuốc hạ sốt",
+      "Khuyên đi khám bác sĩ",
+      "Cho thuốc bổ",
+      "Cho thuốc kháng sinh"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "Trong hệ thống SIT DOWN SIR, chữ T có nghĩa là:",
+    "options": [
+      "Time – Thời gian xuất hiện triệu chứng",
+      "Treatment - Điều trị",
+      "Type – Loại bệnh",
+      "Test - Xét nghiệm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "question": "Khi bệnh nhân thuộc nhóm đặc biệt (trẻ sơ sinh, người cao tuổi, phụ nữ mang thai), dược sĩ cần:",
+    "options": [
+      "Cho thuốc không kê đơn",
+      "Khuyên đi khám bác sĩ",
+      "Cho thuốc bổ sung",
+      "Cho thuốc giảm đau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Một trong những lợi ích của việc phối hợp nhân viên nhà thuốc là:",
+    "options": [
+      "Giảm chất lượng tư vấn",
+      "Tiết kiệm thời gian cho dược sĩ",
+      "Làm khách hàng khó chịu",
+      "Giảm hiệu quả công việc"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Khi bệnh nhân mô tả đau đầu hai bên, phía sau, đau âm ỉ tăng dần trong ngày, chẩn đoán phù hợp nhất là:",
+    "options": [
+      "Đau nửa đầu",
+      "Đau đầu kiểu căng thẳng",
+      "Viêm xoang",
+      "Mỏi mắt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "Một trong những vấn đề thường gặp khi nhân viên khai thác thông tin là:",
+    "options": [
+      "Không giải thích rõ lý do đặt câu hỏi",
+      "Ghi chép đầy đủ",
+      "Tôn trọng khách hàng",
+      "Tiết kiệm thời gian"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "Trong hệ thống ASMETHOD, chữ A có nghĩa là:",
+    "options": [
+      "Age – Tuổi bệnh nhân",
+      "Allergy - Dị ứng",
+      "Ăn uống",
+      "Activity - Hoạt động"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "question": "Trong kiểm tra – điều chỉnh, một tiêu chuẩn quan trọng là:",
+    "options": [
+      "Có hệ thống lưu thông tin đảm bảo an toàn",
+      "Có quảng cáo hấp dẫn",
+      "Có nhiều sản phẩm trưng bày",
+      "Có giá thuốc thấp"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "question": "Trong hệ thống ASMETHOD, chữ M có nghĩa là:",
+    "options": [
+      "Medication - Thuốc đang sử dụng",
+      "Mood",
+      "Muscle",
+      "Measure"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "question": "Một trong những nhiệm vụ của dược sĩ cộng đồng là:",
+    "options": [
+      "Chỉ bán thuốc",
+      "Đánh giá rủi ro trước khi ra quyết định",
+      "Bỏ qua triệu chứng nhẹ",
+      "Tập trung vào lợi nhuận"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "question": "Khi bệnh nhân mô tả đau nhức phía trước, liên quan công việc nhìn gần, chẩn đoán phù hợp nhất là:",
+    "options": [
+      "Đau đầu kiểu căng thẳng",
+      "Đau nửa đầu",
+      "Viêm xoang",
+      "Mỏi mắt"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 104,
+    "question": "Trong giám sát triệu chứng, dược sĩ cần:",
+    "options": [
+      "Ghi chép thông tin bệnh nhân",
+      "Bán thuốc ngay",
+      "Bỏ qua triệu chứng",
+      "Chỉ quan sát bên ngoài"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "question": "Một trong những yếu tố cần thiết để nhân viên nhà thuốc khai thác thông tin hiệu quả là:",
+    "options": [
+      "Đào tạo đạt chuẩn",
+      "Quảng cáo hấp dẫn",
+      "Giá thuốc thấp",
+      "Nhiều sản phẩm trưng bày"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "question": "Trong hệ thống LINDOCARF, chữ L có nghĩa là:",
+    "options": [
+      "Location - Vị trí triệu chứng",
+      "Level",
+      "Length",
+      "Lifestyle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "question": "Trong thực hành nhà thuốc, việc kiểm tra – điều chỉnh nhằm:",
+    "options": [
+      "Đảm bảo chất lượng tư vấn",
+      "Tăng doanh thu",
+      "Giảm thời gian tư vấn",
+      "Thu hút khách hàng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "question": "Một trong những dấu hiệu cảnh báo nghiêm trọng là:",
+    "options": [
+      "Ăn uống bình thường",
+      "Ăn mất ngon, sụt cân",
+      "Ngủ nhiều",
+      "Ho nhẹ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "question": "Trong hệ thống ENCORE, chữ E đầu tiên có nghĩa là:",
+    "options": [
+      "Exclude - Loại trừ nguyên nhân nghiêm trọng",
+      "Examine",
+      "Evaluate",
+      "Evidence"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "question": "Trong tư vấn thuốc không kê đơn, yếu tố nào cần cân nhắc?",
+    "options": [
+      "Hiệu quả, an toàn, giá cả",
+      "Quảng cáo",
+      "Thói quen bán hàng",
+      "Số lượng sản phẩm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "question": "Một trong những nhiệm vụ lâu dài của dược sĩ cộng đồng là:",
+    "options": [
+      "Cập nhật kiến thức điều trị chuẩn, thuốc mới",
+      "Chỉ bán thuốc theo yêu cầu",
+      "Tập trung vào lợi nhuận",
+      "Bỏ qua phản ứng bất lợi"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "question": "Một bệnh nhân nữ 25 tuổi đến nhà thuốc, than phiền đau đầu một bên, kèm buồn nôn, nhạy cảm với ánh sáng. Dấu hiệu này phù hợp nhất với:",
+    "options": [
+      "Đau đầu căng thẳng",
+      "Đau nửa đầu (migraine)",
+      "Viêm xoang",
+      "Mỏi mắt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "question": "Khách hàng yêu cầu mua kháng sinh nhỏ mắt vì mắt đỏ. Dược sĩ cần làm gì trước tiên?",
+    "options": [
+      "Bán ngay thuốc kháng sinh",
+      "Khai thác triệu chứng và tiền sử",
+      "Cho thuốc bổ mắt",
+      "Khuyên uống nhiều nước"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 114,
+    "question": "Một bệnh nhân mô tả đau đầu âm ỉ phía trước, có tiền sử viêm xoang. Chẩn đoán phù hợp nhất là:",
+    "options": [
+      "Đau đầu căng thẳng",
+      "Đau nửa đầu",
+      "Viêm xoang",
+      "Mỏi mắt"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 115,
+    "question": "Khi bệnh nhân mô tả đau nhức mắt sau nhiều giờ làm việc với máy tính, dược sĩ nên tư vấn:",
+    "options": [
+      "Cho thuốc kháng sinh",
+      "Cho thuốc giảm đau",
+      "Khuyên nghỉ ngơi, giảm nhìn gần",
+      "Cho thuốc bổ sung vitamin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 116,
+    "question": "Một bệnh nhân mô tả đau đầu kéo dài nhiều ngày, tăng dần trong ngày, hai bên sau gáy. Đây là đặc điểm của:",
+    "options": [
+      "Đau nửa đầu",
+      "Đau đầu căng thẳng",
+      "Viêm xoang",
+      "Mỏi mắt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 117,
+    "question": "Một bệnh nhân đang dùng thuốc Gliclazide (đái tháo đường) muốn mua thêm thuốc không kê đơn. Dược sĩ cần:",
+    "options": [
+      "Bán ngay thuốc theo yêu cầu",
+      "Kiểm tra tương tác thuốc trước",
+      "Cho thuốc bổ sung",
+      "Khuyên uống nhiều nước"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "question": "Khi bệnh nhân mô tả đau đầu một bên, liên quan chu kỳ kinh nguyệt, dược sĩ cần tư vấn:",
+    "options": [
+      "Đây là đau đầu căng thẳng",
+      "Đây là đau nửa đầu (migraine)",
+      "Đây là viêm xoang",
+      "Đây là mỏi mắt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "question": "Một bệnh nhân mô tả đau đầu phía trước, kèm khó chịu khi đeo kính áp tròng. Dược sĩ nên nghĩ đến:",
+    "options": [
+      "Đau đầu căng thẳng",
+      "Đau nửa đầu",
+      "Mỏi mắt",
+      "Viêm xoang"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 120,
+    "question": "Trong hệ thống WHHAM, chữ A có nghĩa là:",
+    "options": [
+      "Action – Đã làm gì để xử lý triệu chứng",
+      "Advice",
+      "Assessment",
+      "Activity"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 121,
+    "question": "Mục tiêu chính của phương pháp RCA là gì?",
+    "options": [
+      "Tìm giải pháp nhanh nhất",
+      "Xác định nguyên nhân gốc rễ của vấn đề",
+      "Đánh giá hiệu quả quy trình",
+      "Giảm chi phí hoạt động"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 122,
+    "question": "Trong RCA, bước đầu tiên cần thực hiện là:",
+    "options": [
+      "Đưa ra biện pháp khắc phục",
+      "Thu thập dữ liệu và mô tả sự cố",
+      "Đánh giá mức độ nghiêm trọng",
+      "Phân tích chi phí"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 123,
+    "question": "Câu hỏi “Tại sao?” được dùng nhiều lần trong RCA nhằm:",
+    "options": [
+      "Tìm nguyên nhân sâu xa",
+      "Xác định người chịu trách nhiệm",
+      "Đưa ra giải pháp tức thời",
+      "Đánh giá quy trình"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "question": "RCA thường được thực hiện bởi:",
+    "options": [
+      "Một cá nhân",
+      "Nhóm chuyên môn đa ngành",
+      "Bộ phận tài chính",
+      "Người quản lý cấp cao"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "question": "Mô hình xương cá giúp:",
+    "options": [
+      "Xác định mối quan hệ giữa nguyên nhân và kết quả",
+      "Đánh giá hiệu quả tài chính",
+      "Tính toán rủi ro định lượng",
+      "Phân loại dữ liệu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "question": "Một sơ đồ xương cá thường có bao nhiêu nhóm nguyên nhân chính?",
+    "options": [
+      "3",
+      "4",
+      "5-6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 127,
+    "question": "Trong phân tích sai sót cấp phát thuốc, “Tên thuốc giống nhau\" thuộc nhóm nguyên nhân nào?",
+    "options": [
+      "Con người",
+      "Thuốc",
+      "Quy trình",
+      "Môi trường"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 128,
+    "question": "Ưu điểm lớn nhất của sơ đồ xương cá là:",
+    "options": [
+      "Giúp xác định nguyên nhân trọng tâm",
+      "Giảm chi phí sản xuất",
+      "Tự động hóa quy trình",
+      "Loại bỏ hoàn toàn sai sót"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "question": "Nhược điểm của sơ đồ xương cá là:",
+    "options": [
+      "Không thể hiện mối liên kết chéo giữa các nguyên nhân",
+      "Không thể dùng cho nhóm",
+      "Không có tính trực quan",
+      "Không thể lưu trữ dữ liệu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 130,
+    "question": "Khi vấn đề quá phức tạp, sơ đồ xương cá dễ:",
+    "options": [
+      "Bị rối mắt và khó đọc",
+      "Mất tính logic",
+      "Thiếu dữ liệu",
+      "Không thể mở rộng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 131,
+    "question": "Đồ thị Pareto giúp:",
+    "options": [
+      "Xác định nguyên nhân chính gây ra phần lớn sai sót",
+      "Đánh giá mức độ nghiêm trọng",
+      "Phân tích chi phí",
+      "Tính toán xác suất"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 132,
+    "question": "Nguyên tắc 80/20 trong Pareto nghĩa là:",
+    "options": [
+      "80% nguyên nhân gây ra 20% hậu quả",
+      "20% nguyên nhân gây ra 80% hậu quả",
+      "50/50",
+      "90/10"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 133,
+    "question": "Pareto thường được biểu diễn dưới dạng:",
+    "options": [
+      "Biểu đồ thanh",
+      "Biểu đồ tròn",
+      "Sơ đồ mạng",
+      "Đồ thị đường"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "question": "FMEA được dùng để:",
+    "options": [
+      "Dự đoán và ngăn ngừa lỗi trước khi xảy ra",
+      "Đánh giá chi phí sản xuất",
+      "Phân tích dữ liệu tài chính",
+      "Kiểm tra chất lượng sản phẩm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 135,
+    "question": "Trong FMEA, “RPN” là viết tắt của:",
+    "options": [
+      "Risk Priority Number",
+      "Root Process Number",
+      "Random Probability Node",
+      "Risk Prevention Note"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 136,
+    "question": "Ba yếu tố để tính RPN gồm:",
+    "options": [
+      "Tần suất, chi phí, thời gian",
+      "Tỷ lệ xảy ra, mức độ nghiêm trọng, khả năng phát hiện",
+      "Tác động, quy trình, nhân lực",
+      "Nguyên nhân, hậu quả, giải pháp"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 137,
+    "question": "FMEA thường được thực hiện bởi:",
+    "options": [
+      "Một cá nhân",
+      "Nhóm đa ngành",
+      "Bộ phận tài chính",
+      "Người quản lý cấp cao"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 138,
+    "question": "Nguy cơ LASA trong nhà thuốc là do:",
+    "options": [
+      "Bao bì và tên thuốc giống nhau",
+      "Thuốc hết hạn",
+      "Sai liều lượng",
+      "Thiếu hướng dẫn sử dụng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "question": "Khi gặp đơn thuốc viết không rõ ràng, dược sĩ nên:",
+    "options": [
+      "Tự suy đoán",
+      "Liên hệ lại bác sĩ kê đơn",
+      "Bán theo kinh nghiệm",
+      "Bỏ qua lỗi nhỏ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 140,
+    "question": "Việc sử dụng viết tắt trong đơn thuốc dễ gây:",
+    "options": [
+      "Hiểu sai liều lượng",
+      "Giảm chi phí",
+      "Tăng tốc độ cấp phát",
+      "Giảm sai sót"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 141,
+    "question": "Biện pháp bảo quản thuốc để tránh nhầm lẫn là:",
+    "options": [
+      "Sắp xếp thuốc giống nhau cạnh nhau",
+      "Dán nhãn cảnh báo và tách vị trí",
+      "Giấu thuốc dễ nhầm",
+      "Dùng bao bì giống nhau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "question": "Khi bán thuốc LASA, dược sĩ cần:",
+    "options": [
+      "Kiểm tra 2 lần trước khi giao",
+      "Giao nhanh để giảm thời gian",
+      "Không cần đọc lại nhãn",
+      "Kiểm tra 3 lần trước khi giao"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 143,
+    "question": "Giáo dục người bệnh về thuốc giúp:",
+    "options": [
+      "Giảm sai sót sử dụng",
+      "Tăng doanh thu",
+      "Giảm thời gian tư vấn",
+      "Tăng số lượng thuốc bán ra"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 144,
+    "question": "Tổ chức hoạt động chống nhầm lẫn thuốc LASA cần:",
+    "options": [
+      "Xây dựng danh mục thuốc LASA",
+      "Giảm số lượng thuốc bán",
+      "Thay đổi toàn bộ bao bì",
+      "Ngừng bán thuốc dễ nhầm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 145,
+    "question": "Việc khuyến khích nhân viên báo cáo sai sót giúp:",
+    "options": [
+      "Tăng tính minh bạch và cải thiện quy trình",
+      "Giảm doanh thu",
+      "Tăng khối lượng công việc",
+      "Giảm uy tín nhà thuốc"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 146,
+    "question": "Trong sơ đồ xương cá “Giảm năng suất làm việc”, nguyên nhân “Thiếu động lực\" thuộc nhóm:",
+    "options": [
+      "Môi trường",
+      "Nhân viên",
+      "Quy trình",
+      "Quản lý"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 147,
+    "question": "“Thiết bị lỗi thời” là nguyên nhân thuộc nhóm:",
+    "options": [
+      "Công cụ & thiết bị",
+      "Quy trình",
+      "Môi trường",
+      "Nhân viên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 148,
+    "question": "“Thiếu giám sát và định hướng\" là nguyên nhân thuộc nhóm:",
+    "options": [
+      "Quản lý & lãnh đạo",
+      "Nhân viên",
+      "Quy trình",
+      "Môi trường"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 149,
+    "question": "“Tiếng ồn, áp lực” là nguyên nhân thuộc nhóm:",
+    "options": [
+      "Môi trường làm việc",
+      "Quy trình",
+      "Nhân viên",
+      "Công cụ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 150,
+    "question": "Mục tiêu cuối cùng của các công cụ phân tích (RCA, Fishbone, Pareto, FMEA) là:",
+    "options": [
+      "Tìm người chịu trách nhiệm",
+      "Phòng ngừa và giảm thiểu sai sót",
+      "Tăng lợi nhuận",
+      "Đánh giá năng suất"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 151,
+    "question": "Phương pháp “đếm thuốc” dễ bị sai lệch nhất khi:",
+    "options": [
+      "Người bệnh uống đúng liều nhưng không đúng giờ",
+      "Người bệnh vứt bỏ thuốc thừa",
+      "Người bệnh tái lĩnh thuốc thường xuyên",
+      "Người bệnh ghi nhật ký đầy đủ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 152,
+    "question": "MEMS ghi nhận tuân thủ dựa trên:",
+    "options": [
+      "Số lượng thuốc còn lại",
+      "Thời điểm mở nắp chai thuốc",
+      "Tần suất tái khám",
+      "Báo cáo của người bệnh"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 153,
+    "question": "Nhật ký người bệnh thường cho kết quả tuân thủ cao hơn thực tế vì:",
+    "options": [
+      "Người bệnh quên ghi liều",
+      "Người bệnh có xu hướng báo cáo tích cực",
+      "Dược sĩ hướng dẫn sai cách ghi",
+      "Người bệnh dùng thuốc ngoài đơn"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 154,
+    "question": "Phương pháp tái lĩnh thuốc phù hợp nhất với:",
+    "options": [
+      "Nghiên cứu quy mô lớn",
+      "Người bệnh trí nhớ kém",
+      "Đánh giá tác dụng phụ",
+      "Phỏng vấn trực tiếp"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 155,
+    "question": "Phỏng vấn trực tiếp có ưu điểm nổi bật là:",
+    "options": [
+      "Giúp xác định nguyên nhân không tuân thủ",
+      "Giảm chi phí nghiên cứu",
+      "Không cần nhân viên y tế",
+      "Phù hợp cho nghiên cứu quần thể lớn"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 156,
+    "question": "Thang đo Morisky (MMAS) thường được dùng để đánh giá:",
+    "options": [
+      "Mức độ tuân thủ điều trị của người bệnh",
+      "Tương tác thuốc tại nhà thuốc",
+      "Chất lượng của sản phẩm thuốc",
+      "Năng suất làm việc của nhân viên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 157,
+    "question": "Một yếu tố thuộc về 'phác đồ điều trị' dễ gây giảm tuân thủ thuốc là:",
+    "options": [
+      "Số lần dùng thuốc trong ngày quá nhiều",
+      "Bệnh nhân hay quên",
+      "Giá thuốc quá rẻ",
+      "Nhà thuốc ở xa cơ sở y tế"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 158,
+    "question": "Hành vi không tuân thủ vô ý (Unintentional non-adherence) thường do:",
+    "options": [
+      "Bệnh nhân chủ động ngưng thuốc do sợ tác dụng phụ",
+      "Bệnh nhân vô tình quên hoặc không hiểu rõ hướng dẫn",
+      "Bệnh nhân không có đủ tiền mua thuốc",
+      "Bệnh nhân tự ý tăng liều để nhanh khỏi bệnh"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 159,
+    "question": "Hành vi không tuân thủ cố ý (Intentional non-adherence) xảy ra khi:",
+    "options": [
+      "Bệnh nhân quên mang theo thuốc khi đi du lịch",
+      "Bệnh nhân chủ động ngừng thuốc vì thấy triệu chứng đã giảm",
+      "Bệnh nhân không nghe rõ lời dược sĩ dặn",
+      "Bệnh nhân bị nhầm lẫn giữa các loại thuốc giống nhau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 160,
+    "question": "Để cải thiện tuân thủ điều trị ở bệnh nhân cao tuổi mắc nhiều bệnh mạn tính, giải pháp nào sau đây là hiệu quả nhất?",
+    "options": [
+      "Sử dụng hộp chia thuốc theo ngày/giờ và đơn giản hóa phác đồ",
+      "Yêu cầu bệnh nhân tự đọc tờ hướng dẫn sử dụng thuốc",
+      "Tăng liều lượng thuốc để giảm số lần uống trong ngày",
+      "Chuyển hoàn toàn sang thuốc dạng tiêm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 161,
+    "question": "Trong giáo dục sức khỏe, việc thay đổi nhận thức của người bệnh thuộc về miền mục tiêu nào?",
+    "options": [
+      "Miền nhận thức (Cognitive domain)",
+      "Miền thái độ (Affective domain)",
+      "Miền kỹ năng (Psychomotor domain)",
+      "Miền hành vi (Behavioral domain)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 162,
+    "question": "Việc người bệnh bày tỏ sự tin tưởng và tự nguyện tuân thủ phác đồ thuộc về miền mục tiêu nào?",
+    "options": [
+      "Miền thái độ (Affective domain)",
+      "Miền nhận thức (Cognitive domain)",
+      "Miền kỹ năng (Psychomotor domain)",
+      "Miền thể chất"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 163,
+    "question": "Người bệnh thực hiện đúng các thao tác xịt hít dụng cụ hen suyễn thuộc về miền mục tiêu nào?",
+    "options": [
+      "Miền kỹ năng (Psychomotor domain)",
+      "Miền nhận thức",
+      "Miền thái độ",
+      "Miền lý thuyết"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 164,
+    "question": "Bước đầu tiên trong quy trình lập kế hoạch giáo dục sức khỏe cho người bệnh là:",
+    "options": [
+      "Xác định nhu cầu giáo dục sức khỏe",
+      "Xác định mục tiêu",
+      "Lựa chọn phương pháp",
+      "Đánh giá kết quả"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 165,
+    "question": "Khi giao tiếp giáo dục sức khỏe, việc sử dụng các tờ rơi (brochure) hình ảnh sinh động giúp cải thiện yếu tố nào?",
+    "options": [
+      "Sự ghi nhớ và hiểu biết của người bệnh",
+      "Tốc độ khỏi bệnh của người bệnh",
+      "Doanh thu trực tiếp của nhà thuốc",
+      "Thời gian lưu kho của thuốc"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 166,
+    "question": "Nguyên tắc cốt lõi khi thiết kế tài liệu giáo dục sức khỏe cho bệnh nhân là:",
+    "options": [
+      "Ngôn ngữ đơn giản, dễ hiểu, tránh thuật ngữ chuyên môn quá sâu",
+      "Sử dụng tối đa thuật ngữ tiếng Anh chuyên ngành",
+      "Viết càng dài và chi tiết càng tốt",
+      "Chỉ tập trung vào cơ chế dược lý của thuốc"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 167,
+    "question": "Mô hình niềm tin sức khỏe (Health Belief Model) chỉ ra rằng người bệnh sẽ tuân thủ điều trị nếu họ nhận thức được:",
+    "options": [
+      "Mối đe dọa của bệnh tật và lợi ích của việc điều trị",
+      "Giá thành của thuốc trên thị trường",
+      "Mối quan hệ của dược sĩ và bác sĩ",
+      "Quy mô của cơ sở y tế"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 168,
+    "question": "Trong mô hình Transtheoretical Model (TTM) về sự thay đổi hành vi, giai đoạn 'Ý định' (Contemplation) có nghĩa là:",
+    "options": [
+      "Người bệnh bắt đầu nhận thức được vấn đề và cân nhắc thay đổi trong vòng 6 tháng tới",
+      "Người bệnh chưa có bất kỳ ý định thay đổi nào",
+      "Người bệnh đã thực hiện thay đổi hành vi được hơn 6 tháng",
+      "Người bệnh đang tích cực thực hiện các biện pháp thay đổi hàng ngày"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 169,
+    "question": "Giai đoạn 'Hành động' (Action) trong mô hình TTM được tính khi người bệnh đã duy trì hành vi mới trong thời gian:",
+    "options": [
+      "Dưới 6 tháng",
+      "Trên 1 năm",
+      "Trên 5 năm",
+      "Chưa bắt đầu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 170,
+    "question": "Để giáo dục sức khỏe hiệu quả cho người bệnh mù chữ hoặc giảm thị lực, dược sĩ nên ưu tiên dùng:",
+    "options": [
+      "Hướng dẫn bằng lời nói kết hợp ký hiệu màu sắc hoặc hình vẽ trực quan",
+      "Tờ hướng dẫn sử dụng thuốc in chữ nhỏ",
+      "Sách giáo trình chuyên ngành y dược",
+      "Yêu cầu họ tự tìm kiếm video trên internet"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 171,
+    "question": "Trong tư vấn và giáo dục sức khỏe, kỹ thuật 'Teach-back' có nghĩa là:",
+    "options": [
+      "Yêu cầu người bệnh giải thích lại bằng ngôn ngữ của họ về cách dùng thuốc",
+      "Dược sĩ đọc lại đơn thuốc cho bệnh nhân nghe một lần nữa",
+      "Bệnh nhân dạy lại cho người thân của họ tại nhà",
+      "Dược sĩ kiểm tra lại kiến thức của đồng nghiệp"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 172,
+    "question": "Mục đích chính của kỹ thuật 'Teach-back' là gì?",
+    "options": [
+      "Xác nhận mức độ thấu hiểu của người bệnh và điều chỉnh thông tin nếu cần",
+      "Kiểm tra trí thông minh của người bệnh",
+      "Tiết kiệm thời gian tư vấn cho dược sĩ",
+      "Tạo áp lực tâm lý để người bệnh phải ghi nhớ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 173,
+    "question": "Khi áp dụng kỹ thuật Teach-back, nếu người bệnh trả lời sai hoặc chưa đầy đủ, dược sĩ cần:",
+    "options": [
+      "Giải thích lại thông tin một cách nhẹ nhàng và kiểm tra lại",
+      "Phê bình người bệnh vì thiếu tập trung",
+      "Bỏ qua và tiến hành thanh toán tiền thuốc",
+      "Yêu cầu người bệnh tự đọc lại nhãn thuốc"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 174,
+    "question": "Một rào cản lớn từ phía hệ thống y tế dẫn đến việc giáo dục sức khỏe kém hiệu quả tại nhà thuốc là:",
+    "options": [
+      "Thời gian tư vấn bị hạn chế do lượng khách hàng quá đông",
+      "Sự đa dạng của các nhóm thuốc không kê đơn",
+      "Sự phát triển của các phần mềm quản lý nhà thuốc",
+      "Trình độ học vấn ngày càng cao của người dân"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 175,
+    "question": "Khi lập mục tiêu giáo dục sức khỏe theo nguyên tắc SMART, chữ 'M' (Measurable) đòi hỏi mục tiêu phải:",
+    "options": [
+      "Có thể đo lường được bằng các chỉ số cụ thể",
+      "Có tính thực tế và khả thi",
+      "Rõ ràng và mang tính cụ thể",
+      "Có mốc thời gian hoàn thành rõ ràng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 176,
+    "question": "Trong viết mục tiêu giáo dục theo nguyên tắc ABCD, chữ \"D\" (Degree) đại diện cho:",
+    "options": [
+      "Đối tượng cụ thể cần được giáo dục.",
+      "Điều kiện để thực hiện hành vi mong muốn.",
+      "Tiêu chuẩn hoặc mức độ đạt được của hành vi.",
+      "Mô tả hành vi mà người bệnh sẽ thực hiện."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 177,
+    "question": "Một mục tiêu giáo dục ghi: \"Người bệnh có thể tự tiêm Insulin đúng kỹ thuật sau 1 buổi hướng dẫn\". Thành phần nào còn thiếu theo nguyên tắc ABCD?",
+    "options": [
+      "Audience (Đối tượng).",
+      "Behavior (Hành vi).",
+      "Conditions (Điều kiện).",
+      "Không thiếu thành phần nào."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 178,
+    "question": "Tại sao bước \"Đánh giá\" cần được thực hiện trước khi \"Lập kế hoạch\"?",
+    "options": [
+      "Để tiết kiệm thời gian cho Dược sĩ.",
+      "Để xác định lỗ hổng kiến thức và cá thể hóa kế hoạch.",
+      "Để kiểm tra xem người bệnh có đủ tiền mua thuốc không.",
+      "Để hoàn thành thủ tục hành chính của nhà thuốc."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 179,
+    "question": "Trong mô hình 4Es, giai đoạn \"Khám phá\" (Explore) nhằm mục đích gì?",
+    "options": [
+      "Cung cấp các thông tin an toàn về thuốc.",
+      "Tìm hiểu những điều người bệnh hy vọng thuốc giúp họ làm được.",
+      "Hướng dẫn người bệnh cách đặt báo thức uống thuốc.",
+      "Yêu cầu người bệnh ký cam kết tuân thủ điều trị."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 180,
+    "question": "Ở giai đoạn \"Giáo dục\" (Educate), thông tin đưa ra cần đảm bảo nguyên tắc nào?",
+    "options": [
+      "Phải là tất cả thông tin có trong tờ hướng dẫn sử dụng.",
+      "Phải ngắn gọn, rõ ràng, thực tế và tập trung vào những điều cốt lõi.",
+      "Chỉ tập trung vào giá thành và các chương trình khuyến mãi.",
+      "Sử dụng nhiều từ ngữ chuyên ngành y học chuyên sâu."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 181,
+    "question": "Câu hỏi: \"Vui lòng nói cho tôi biết, bạn định dùng thuốc này như thế nào?\" [cite: 1] thuộc bước nào trong mô hình 4Es? [cite: 2]",
+    "options": [
+      "Khám phá (Explore). [cite: 3]",
+      "Giáo dục (Educate). [cite: 4]",
+      "Năng lực (Empower). [cite: 5]",
+      "Thực hiện (Enable). [cite: 6]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 182,
+    "question": "Sự khác biệt chính giữa \"Năng lực\" (Empower) và \"Thực hiện\" (Enable) là: [cite: 7]",
+    "options": [
+      "Empower tạo động lực/quyết định; Enable cụ thể hóa hành vi. [cite: 8]",
+      "Empower hướng dẫn cách làm; Enable kiểm tra kết quả. [cite: 9]",
+      "Empower cung cấp kiến thức; Enable tạo sự tin tưởng. [cite: 10]",
+      "Hai bước này hoàn toàn giống nhau về bản chất. [cite: 11]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 183,
+    "question": "Trong tình huống bệnh nhân thợ mộc 52 tuổi, rào cản lớn nhất [cite: 12] khiến ông không dùng máy đo huyết áp là gì? [cite: 13]",
+    "options": [
+      "Ông không có tiền mua pin cho máy. [cite: 14]",
+      "Ông thấy việc đo huyết áp tốn quá nhiều thời gian. [cite: 15]",
+      "Ông không hiểu ý nghĩa của các con số máy hiển thị. [cite: 16]",
+      "Ông sợ máy đo sẽ làm đau cánh tay mình. [cite: 17]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 184,
+    "question": "Khi phát hiện người bệnh có kiến thức sai lệch, Dược sĩ nên phản hồi như thế nào là đúng nhất? [cite: 18]",
+    "options": [
+      "Ngay lập tức bác bỏ và phê bình người bệnh. [cite: 19]",
+      "Phớt lờ và chỉ nói về thông tin đúng của mình. [cite: 20]",
+      "Khéo léo điều chỉnh mà không làm mất niềm tin của người bệnh vào nguồn tin cũ. [cite: 21]",
+      "Yêu cầu người bệnh không được nghe theo lời khuyên của người thân. [cite: 22]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 185,
+    "question": "Phương pháp nào hiệu quả nhất để đánh giá \"Kỹ năng\" sử dụng dụng cụ xịt hen của người bệnh? [cite: 23]",
+    "options": [
+      "Phỏng vấn người bệnh xem họ thấy thế nào. [cite: 24]",
+      "Quan sát trực tiếp người bệnh thao tác thực tế. [cite: 25]",
+      "Đọc hồ sơ bệnh án của người bệnh. [cite: 26]",
+      "Gửi phiếu khảo sát về nhà cho người bệnh. [cite: 27]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 186,
+    "question": "Đối với một người bệnh đang tuân thủ điều trị rất tốt, Dược sĩ cần làm gì? [cite: 28]",
+    "options": [
+      "Không cần tư vấn thêm để dành thời gian cho người bệnh khác. [cite: 29]",
+      "Động viên và minh chứng bằng sự cải thiện chỉ số lâm sàng (nếu có). [cite: 30]",
+      "Yêu cầu người bệnh đổi sang loại thuốc mới đắt tiền hơn. [cite: 31]",
+      "Chỉ kiểm tra lại hạn sử dụng của thuốc trên bao bì. [cite: 32]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 187,
+    "question": "Tại sao câu hỏi về sự tuân thủ nên tránh gây cảm giác \"phán xét\"? [cite: 33]",
+    "options": [
+      "Vì Dược sĩ không có quyền phán xét người bệnh. [cite: 34]",
+      "Để người bệnh thoải mái chia sẻ thật về những lần quên thuốc. [cite: 35]",
+      "Để người bệnh cảm thấy Dược sĩ là người dễ tính. [cite: 36]",
+      "Vì việc quên thuốc là chuyện đương nhiên, không cần quan tâm. [cite: 37]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 188,
+    "question": "Thông tin nào sau đây KHÔNG thuộc nhóm \"Cách dùng thuốc\" trong danh mục kiểm tra tư vấn? [cite: 38]",
+    "options": [
+      "Thời gian dùng thuốc trong bao lâu. [cite: 39]",
+      "Uống thuốc lúc đói hay lúc no. [cite: 40]",
+      "Cách nhận biết thuốc đang hoạt động hiệu quả. [cite: 41]",
+      "Số lượng viên thuốc cho mỗi lần dùng. [cite: 42]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 189,
+    "question": "Theo mô hình 4Es, việc thảo luận về \"Vị trí để thuốc ở đâu?\" thuộc giai đoạn nào? [cite: 43]",
+    "options": [
+      "Khám phá. [cite: 44]",
+      "Giáo dục. [cite: 45]",
+      "Năng lực. [cite: 46]",
+      "Thực hiện. [cite: 47]"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 190,
+    "question": "Mục tiêu giáo dục: \"Sau khi hướng dẫn, ông X có thể kể tên 3 tác dụng phụ thường gặp của thuốc A\" thuộc lĩnh vực nào? [cite: 48]",
+    "options": [
+      "Nhận thức. [cite: 49]",
+      "Cảm xúc. [cite: 50]",
+      "Tâm lý vận động (Kỹ năng). [cite: 51]",
+      "Thái độ. [cite: 52]"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 191,
+    "question": "Khi tư vấn về tác dụng phụ (ADR), nội dung quan dụng nhất cần cung cấp cho người bệnh là: [cite: 53]",
+    "options": [
+      "Tên hóa học của các chất gây ra tác dụng phụ. [cite: 54]",
+      "Tỷ lệ phần trăm chính xác đến 0,01% của ADR. [cite: 55]",
+      "Cách nhận diện dấu hiệu nguy hiểm cần đi khám ngay. [cite: 56]",
+      "Danh sách tất cả các ADR đã từng được ghi nhận trong lịch sử. [cite: 57]"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 192,
+    "question": "Việc cung cấp tờ rơi (leaflets) vào cuối buổi giáo dục có ưu điểm gì? [cite: 58]",
+    "options": [
+      "Giúp người bệnh không phải nghe Dược sĩ nói. [cite: 59]",
+      "Để người bệnh mang về đọc lại, tránh phân tâm trong lúc trao đổi. [cite: 60]",
+      "Để chứng minh nhà thuốc có nhiều tài liệu chuyên môn. [cite: 61]",
+      "Giúp Dược sĩ kết thúc buổi tư vấn nhanh hơn. [cite: 62]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 193,
+    "question": "Câu hỏi nào sau đây giúp khai thác \"Động lực học\" của người bệnh hiệu quả nhất? [cite: 63]",
+    "options": [
+      "\"Ông có biết thuốc này giá bao nhiêu không?\" [cite: 64]",
+      "\"Điều gì là quan trọng nhất với ông khi điều trị căn bệnh này?\" [cite: 65]",
+      "\"Ông đã uống thuốc này mấy lần rồi?\" [cite: 66]",
+      "\"Ông có muốn tôi đọc lại tờ hướng dẫn sử dụng không?\" [cite: 67]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 194,
+    "question": "\"Trao quyền\" (Empower) cho người bệnh thực chất là: [cite: 68]",
+    "options": [
+      "Để người bệnh tự ý quyết định liều dùng thuốc. [cite: 69]",
+      "Giúp người bệnh tự tin và tự nguyện tham gia vào kế hoạch điều trị. [cite: 70]",
+      "Để người bệnh tự chữa bệnh mà không cần tư vấn. [cite: 71]",
+      "Giao toàn bộ hồ sơ bệnh án cho người bệnh giữ. [cite: 72]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 195,
+    "question": "Trong bước Kiểm tra, nếu người bệnh chưa đạt được mục tiêu, Dược sĩ nên làm gì? [cite: 73]",
+    "options": [
+      "Kết thúc quy trình vì đã cố gắng hết sức. [cite: 74]",
+      "Quay lại bước Đánh giá để tìm hiểu lý do và điều chỉnh kế hoạch. [cite: 75]",
+      "Yêu cầu người bệnh đi khám lại bác sĩ khác. [cite: 76]",
+      "Phạt người bệnh bằng cách không bán thuốc lần sau. [cite: 77]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 196,
+    "question": "Việc phân tích chi phí điều trị trong lúc tư vấn có ý nghĩa gì đối với sự tuân thủ? [cite: 78]",
+    "options": [
+      "Để người bệnh thấy Dược sĩ là người giỏi tính toán. [cite: 79]",
+      "Giúp người bệnh chủ động tài chính, tránh bỏ thuốc giữa chừng vì thiếu kinh phí. [cite: 80]",
+      "Để nhà thuốc dễ dàng tăng giá thuốc trong tương lai. [cite: 81]",
+      "Không có ý nghĩa gì đối với việc dùng thuốc. [cite: 82]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 197,
+    "question": "Một bệnh nhân nói: \"Tôi sợ uống thuốc này vì hàng xóm bảo nó hại gan\". [cite: 83] Đây là rào cản thuộc yếu tố nào? [cite: 84]",
+    "options": [
+      "Trình độ giáo dục. [cite: 85]",
+      "Yếu tố xã hội và niềm tin. [cite: 86]",
+      "Động lực học. [cite: 87]",
+      "Tình trạng sức khỏe. [cite: 88]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 198,
+    "question": "Để hỗ trợ người bệnh ghi nhớ lịch uống thuốc, giải pháp nào sau [cite: 89] đây mang tính \"Enable\" (Thực hiện) nhất? [cite: 90]",
+    "options": [
+      "Yêu cầu người bệnh phải học thuộc lòng lịch uống. [cite: 91]",
+      "Dược sĩ cùng người bệnh thiết lập báo thức trên điện thoại của họ. [cite: 92]",
+      "Chép tay lịch uống thuốc vào một tờ giấy nhỏ. [cite: 93]",
+      "Nói với người bệnh rằng nếu quên sẽ bị bệnh nặng hơn. [cite: 94]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 199,
+    "question": "Nội dung nào sau đây giúp \"Minh chứng bằng con số\" để khích lệ người bệnh tuân thủ? [cite: 95]",
+    "options": [
+      "\"Anh đã uống hết 30 viên thuốc trong tháng qua.\" [cite: 96]",
+      "\"Chỉ số đường huyết HbA1C của anh đã giảm từ 8% xuống 7%.\" [cite: 97]",
+      "\"Giá thuốc tháng này rẻ hơn tháng trước 10.000 đồng.\" [cite: 98]",
+      "\"Anh là người khách thứ 100 đến nhà thuốc hôm nay.\" [cite: 99]"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 200,
+    "question": "Theo nguyên tắc ABCD, \"Bằng cách sử dụng bảng theo dõi huyết [cite: 100] áp hàng ngày\" trong một mục tiêu giáo dục là thành phần: [cite: 101]",
+    "options": [
+      "A (Audience). [cite: 102]",
+      "B (Behavior). [cite: 103]",
+      "C (Conditions). [cite: 104]",
+      "D (Degree). [cite: 105]"
+    ],
+    "answer": 2
+  }
+]
