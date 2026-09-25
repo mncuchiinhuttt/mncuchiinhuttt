@@ -47,7 +47,19 @@ I like turning research ideas into things people can actually use.
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+      <img src="https://img.shields.io/badge/VUE.JS-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
   <tr>
@@ -56,6 +68,16 @@ I like turning research ideas into things people can actually use.
       <img src="https://img.shields.io/badge/DATA%20STRUCTURES-152238?style=for-the-badge" alt="Data Structures" />
       <img src="https://img.shields.io/badge/ALGORITHMS-152238?style=for-the-badge" alt="Algorithms" />
       <img src="https://img.shields.io/badge/OOP-152238?style=for-the-badge" alt="OOP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/GITLAB%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+      <img src="https://img.shields.io/badge/ARGO%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
     </td>
   </tr>
   <tr>
@@ -72,7 +94,7 @@ I like turning research ideas into things people can actually use.
     <td><b>AI & ML Interests</b></td>
     <td>
       <img src="https://img.shields.io/badge/GENERATIVE%20AI%20%26%20LLMS-7C3AED?style=for-the-badge" alt="Generative AI & LLMs" />
-      <img src="https://img.shields.io/badge/RAG-0284C7?style=for-the-badge&logo=airtable&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/COMPUTATIONAL%20LINGUISTICS-7C3AED?style=for-the-badge" alt="Computational Linguistics" />
       <img src="https://img.shields.io/badge/AGENTIC%20AI-2563EB?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic AI" />
       <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-7C3AED?style=for-the-badge&logo=target&logoColor=white" alt="Prompt Engineering" />
       <br />
@@ -105,6 +127,7 @@ I like turning research ideas into things people can actually use.
     </td>
   </tr>
 </table>
+
 
 
 ## tiny projects, big feelings 💗
