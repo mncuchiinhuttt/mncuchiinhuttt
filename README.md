@@ -37,7 +37,7 @@ I like turning research ideas into things people can actually use.
 - **Academic work:** [paper accepted at the 13th Workshop on Argument Mining](https://doi.org/10.18653/v1/2026.argmining-1.11).
 - **Research profile:** [Google Scholar](https://scholar.google.com/citations?user=ldeQP70AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0002-8449-7669)
 
-## 🛠️ Technical Arsenal
+## technical arsenal 🛠️✨
 
 <table width="100%">
   <tr>
