@@ -102,13 +102,6 @@ I like turning research ideas into things people can actually use.
     </td>
   </tr>
   <tr>
-    <td><b>STEM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MATHEMATICS-059669?style=for-the-badge&logo=wolfram&logoColor=white" alt="Mathematics" />
-      <img src="https://img.shields.io/badge/PHYSICS-0D9488?style=for-the-badge" alt="Physics" />
-    </td>
-  </tr>
-  <tr>
     <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/VIETNAMESE-NATIVE-E11D48?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=333333" alt="Vietnamese" />
