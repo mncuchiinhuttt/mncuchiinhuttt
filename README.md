@@ -166,7 +166,7 @@ I like turning research ideas into things people can actually use.
 </p>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mncuchiinhuttt&bg_color=fff0f6&color=8b6b75&line=f78fb3&point=ff9fbc&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="./images/github-monthly-contributions-2026.svg" alt="Vo Minh Long's 2026 Monthly Contributions Graph" width="100%" />
 </p>
 
 <p align="center">
