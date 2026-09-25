@@ -128,22 +128,22 @@ I like turning research ideas into things people can actually use.
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/mncuchiinhuttt/Tin2225CoffeeShop"><b>☕ Tin2225CoffeeShop</b></a><br />
-      <sub>A warm little HTML coffee-shop website.</sub>
+      <a href="https://github.com/mncuchiinhuttt/betteragy"><b>⚡ betteragy</b></a><br />
+      <sub>CLI switchboard, AI token analytics & deep thinking harness for agy.</sub>
     </td>
     <td width="50%">
-      <a href="https://github.com/mncuchiinhuttt/unit9assignment"><b>🌿 unit9assignment</b></a><br />
-      <sub>A Svelte web project from the learning journey.</sub>
+      <a href="https://github.com/mncuchiinhuttt/mncode"><b>🤖 mncode</b></a> · <a href="https://github.com/mncuchiinhuttt/mncode-desktop"><b>desktop</b></a><br />
+      <sub>Go-native autonomous coding assistant CLI & Wails desktop companion.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/mncuchiinhuttt/WeStu"><b>📚 WeStu</b></a><br />
-      <sub>A TypeScript project for student-focused ideas.</sub>
+      <a href="https://github.com/cset-cbt/cset-ui"><b>🎨 cset-ui</b></a><br />
+      <sub>CSET Blueprint design system & UI package with SvelteKit and Tailwind v4.</sub>
     </td>
     <td width="50%">
-      <a href="https://github.com/mncuchiinhuttt/quizizz-ai-import"><b>✨ quizizz-ai-import</b></a><br />
-      <sub>A Svelte experiment for making study workflows nicer.</sub>
+      <a href="https://github.com/mncuchiinhuttt/WeStu"><b>📚 WeStu</b></a><br />
+      <sub>A TypeScript project for student-focused ideas.</sub>
     </td>
   </tr>
   <tr>
