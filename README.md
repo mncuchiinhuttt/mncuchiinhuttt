@@ -37,16 +37,75 @@ I like turning research ideas into things people can actually use.
 - **Academic work:** [paper accepted at the 13th Workshop on Argument Mining](https://doi.org/10.18653/v1/2026.argmining-1.11).
 - **Research profile:** [Google Scholar](https://scholar.google.com/citations?user=ldeQP70AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0002-8449-7669)
 
-## my little toolbox 🧰
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,go,java,svelte,react,nodejs,postgres,tailwind,git,github&perline=7" alt="technology icons" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="22%"><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Computer Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/DATA%20STRUCTURES-152238?style=for-the-badge" alt="Data Structures" />
+      <img src="https://img.shields.io/badge/ALGORITHMS-152238?style=for-the-badge" alt="Algorithms" />
+      <img src="https://img.shields.io/badge/OOP-152238?style=for-the-badge" alt="OOP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Hardware</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+      <img src="https://img.shields.io/badge/CAD-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD" />
+      <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/SIMULINK-00599C?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & ML Interests</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GENERATIVE%20AI%20%26%20LLMS-7C3AED?style=for-the-badge" alt="Generative AI & LLMs" />
+      <img src="https://img.shields.io/badge/RAG-0284C7?style=for-the-badge&logo=airtable&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/AGENTIC%20AI-2563EB?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic AI" />
+      <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-7C3AED?style=for-the-badge&logo=target&logoColor=white" alt="Prompt Engineering" />
+      <br />
+      <img src="https://img.shields.io/badge/MULTIMODAL%20AI-7C3AED?style=for-the-badge&logo=google&logoColor=white" alt="Multimodal AI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>STEM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MATHEMATICS-059669?style=for-the-badge&logo=wolfram&logoColor=white" alt="Mathematics" />
+      <img src="https://img.shields.io/badge/PHYSICS-0D9488?style=for-the-badge" alt="Physics" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VIETNAMESE-NATIVE-E11D48?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=333333" alt="Vietnamese" />
+      <img src="https://img.shields.io/badge/ENGLISH-WORKING%20PROFICIENCY-0284C7?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=333333" alt="English" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Interpersonal</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TEAMWORK-152238?style=for-the-badge" alt="Teamwork" />
+      <img src="https://img.shields.io/badge/COMMUNICATION-152238?style=for-the-badge" alt="Communication" />
+      <img src="https://img.shields.io/badge/PROBLEM--SOLVING-152238?style=for-the-badge" alt="Problem-Solving" />
+      <img src="https://img.shields.io/badge/ADAPTABILITY-152238?style=for-the-badge" alt="Adaptability" />
+      <br />
+      <img src="https://img.shields.io/badge/TIME%20MANAGEMENT-152238?style=for-the-badge" alt="Time Management" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub>repo languages: Svelte · TypeScript · HTML · Python · C++</sub><br />
-  <sub>also coding with: Go · Java · React · Node.js · PostgreSQL · Prisma · Flutter · NLP/LLM tools</sub>
-</p>
 
 ## tiny projects, big feelings 💗
 
@@ -91,7 +150,11 @@ I like turning research ideas into things people can actually use.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mncuchiinhuttt&bg_color=fff0f6&color=8b6b75&line=f78fb3&point=ff9fbc&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=mncuchiinhuttt&bg_color=fff0f6&color=8b6b75&line=f78fb3&point=ff9fbc&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mncuchiinhuttt&background=fff0f6&border=fff0f6&stroke=f78fb3&ring=ee6f9b&fire=ee6f9b&currStreakNum=8b6b75&sideNums=8b6b75&currStreakLabel=ee6f9b&sideLabels=ee6f9b&dates=8b6b75&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <div align="center">
