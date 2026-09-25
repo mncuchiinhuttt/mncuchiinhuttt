@@ -121,7 +121,15 @@ I like turning research ideas into things people can actually use.
   </tr>
 </table>
 
+## ai agents & token metrics 🤖⚡
 
+<p align="center">
+  <img src="./images/chatgpt-codex-metrics.svg" alt="OpenAI Codex & ChatGPT Plus Token Metrics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./images/claude-code-metrics.svg" alt="Claude Code & mncode Token Metrics" width="100%" />
+</p>
 
 ## tiny projects, big feelings 💗
 
