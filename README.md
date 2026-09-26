@@ -128,27 +128,29 @@ I like turning research ideas into things people can actually use.
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/OpenAI-ChatGPT%20Plus-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI ChatGPT Plus" />
       <br /><br />
-      <b>Codex &amp; ChatGPT Plus</b> <sub><code>@mncuchiinhuttt · Real Lesbian</code></sub>
+      <b>Codex &amp; ChatGPT Plus</b> <sub><code>@mncuchiinhuttt</code></sub>
       <ul>
-        <li><b>Lifetime tokens:</b> <code>14B</code> processed</li>
+        <li><b>Total tokens:</b> <code>14B</code> lifetime</li>
         <li><b>Peak volume:</b> <code>1.5B</code> tokens</li>
         <li><b>Longest chat:</b> <code>4h 34m</code></li>
-        <li><b>Coding streak:</b> <code>62 days</code> 🔥 (current &amp; longest)</li>
+        <li><b>Coding streak:</b> <code>62 days</code> 🔥</li>
       </ul>
-      <sub><i>Last updated: Sep 25, 2026</i></sub>
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/Anthropic-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude Code" />
       <br /><br />
-      <b>Claude Code</b> <sub><code>Favorite: Claude Sonnet 5</code></sub>
+      <b>Claude Code</b> <sub><code>Favorite: Sonnet 5</code></sub>
       <ul>
-        <li><b>Total tokens:</b> <code>9.4B</code> (Cache read: <code>9.1B</code> · Output: <code>22.4M</code>)</li>
-        <li><b>Active days:</b> <code>44 / 60 days</code> (<code>42 sessions</code>)</li>
+        <li><b>Total tokens:</b> <code>9.4B</code> lifetime</li>
+        <li><b>Cache / Output:</b> <code>9.1B</code> · <code>22.4M</code></li>
         <li><b>Longest session:</b> <code>7d 2h 37m</code></li>
-        <li><b>Longest streak:</b> <code>8 days</code></li>
+        <li><b>Active days:</b> <code>44 / 60 days</code> (streak: <code>8d</code>)</li>
       </ul>
-      <sub><i>Last updated: Sep 25, 2026</i></sub>
     </td>
+  </tr>
+  <tr>
+    <td><sub><i>Last updated: Sep 25, 2026</i></sub></td>
+    <td><sub><i>Last updated: Sep 25, 2026</i></sub></td>
   </tr>
 </table>
 
